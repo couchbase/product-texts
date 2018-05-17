@@ -7,7 +7,7 @@ if (BUILD_ENTERPRISE)
 ELSE (BUILD_ENTERPRISE)
   SET (license license/ce-license.txt)
   SET (license_nocr license/ce-license-no-newlines.txt)
-  SET (ns_server_license CE_subscription_license_agreement.txt)
+  SET (ns_server_license CE_license_agreement.txt)
   SET (license_html license/ce-license.html)
 ENDIF (BUILD_ENTERPRISE)
 
