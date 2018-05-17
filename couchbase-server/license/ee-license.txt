@@ -371,7 +371,7 @@ services can be viewed at www.couchbase.com/dos04132016).  "Deliverables"
 means reports, and other deliverables Couchbase may design, develop for,
 or deliver to Licensee during the course of providing consulting services.
 
-LA v2 20171030
+LA v3 20180430
 
 ----------------------------------------- IMPORTANT CLARIFICATION:  If
 you use any of the Developer Preview features, the Agreement above does
@@ -904,4 +904,14 @@ at sales@couchbase.com.
   Redwood Shores, California 94065, USA.
 
   Last updated 02 April 2013
+
+End of JRE license
 ---
+
+Couchbase Inc. Enterprise Subscription License Agreement
+LA v3 20180430
+
+If you have any questions regarding this Agreement, please contact us at 
+sales@couchbase.com.
+
+-----------------------------------------
