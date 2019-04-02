@@ -44,3 +44,7 @@ OR OTHERWISE INSTALL, DOWNLOAD OR USE THE SOFTWARE.
    OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
    ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
    OTHER DEALINGS IN THE SOFTWARE.
+
+5. Uninstallation. To unistall Couchbase Server, use the instructions
+   found here: 
+   https://docs.couchbase.com/server/6.0/install/install-uninstalling.html

@@ -402,6 +402,10 @@ commercially reasonable efforts (a list of available consulting services
 located at www.couchbase.com/legal/agreements#ProfessionalServices).
 The term "including" means including but not limited to.
 
+14. Uninstallation. To unistall Couchbase Server, use the instructions
+found here:
+https://docs.couchbase.com/server/6.0/install/install-uninstalling.html
+
 LA v4 20190115 -----------------------------------------
 
 IMPORTANT CLARIFICATION:  If you use any of the Developer Preview
