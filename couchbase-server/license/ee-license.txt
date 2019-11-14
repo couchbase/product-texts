@@ -1,4 +1,5 @@
 COUCHBASE INC. LICENSE AGREEMENT
+
 IMPORTANT-READ CAREFULLY:  BY CLICKING THE "I ACCEPT" BOX OR INSTALLING,
 DOWNLOADING OR OTHERWISE USING THIS SOFTWARE AND ANY ASSOCIATED
 DOCUMENTATION, YOU, ON BEHALF OF YOURSELF AND AS AN AUTHORIZED
@@ -13,7 +14,6 @@ INSTALL, DOWNLOAD OR USE THE SOFTWARE.
 
 1. Definitions.
 1.1 Capitalized terms used herein shall have the following definitions:
-
 "Commercial Details" means the identified product(s), quantity (number
 of Licensed Nodes and/or Licensed Devices), price, server size metric,
 support level, subscription start and end date, and professional service
@@ -28,9 +28,9 @@ Professional Services.
 Couchbase related to the Software.
 "Fee" means the sum or fee specified on the applicable Order or SOW and
 includes any other fees or charges payable under this Agreement.
-"Licensed Devices" means a unique device (such as a mobile device,
-laptop, or IoT device) that stores data locally using the "Couchbase
-Lite" product.
+"Licensed Device" means a unique device (such as a mobile device, laptop,
+or IoT device) that stores data locally using the "Couchbase Lite"
+product during a rolling thirty (30) day period.
 "Licensed Node" means an instance of the Software running on a server,
 including a physical server, server blade, virtual machine, software
 container, or cloud server.
@@ -62,24 +62,23 @@ Customer, using commercially reasonable efforts.
 The term "including" means including but not limited to.
 
 2. License Grants.
+2.1 License Grant as to Free Licenses. A "Free License" is allowed for
+non-production use of the Software, provided that no Support Services
+are entitled to Customer.  During the Subscription Term, and subject to
+Customer's compliance with the terms and conditions of this Agreement,
+Couchbase grants to Customer an unpaid, non-exclusive, non-transferable,
+non-sublicensable, non-fee bearing download license to install and use
+the Software only for Customer's own internal testing and development
+use. If, at any time, Customer uses the Software in production, or if
+Customer requests Support Services, Customer acknowledges and agrees
+that the license is automatically converted to an Enterprise License,
+which must be paid for.
 
-2.1 License Grant as to Free Licenses.
-A "Free License" is allowed for non-production use of the Software,
-provided that no Support Services are entitled to Customer.  During the
-Subscription Term, and subject to Customer's compliance with the terms
-and conditions of this Agreement, Couchbase grants to Customer an unpaid,
-non-exclusive, non-transferable, non-sublicensable, non-fee bearing
-download license to install and use the Software only for Customer's own
-internal testing and development use. If, at any time, Customer uses
-the Software in production, or if Customer requests Support Services,
-Customer acknowledges and agrees that the license is automatically
-converted to an Enterprise License, which must be paid for.
-
-2.2 License Grant as to Enterprise Licenses.
-An "Enterprise License" is required if Customer makes any "Productive Use"
-(which means that either (a) the Software is used in production, or (b)
-Support Services are requested by Customer). During the Subscription
-Term, and subject to Customer's compliance with the terms and conditions
+2.2 License Grant as to Enterprise Licenses. An "Enterprise License"
+is required if Customer makes any "Productive Use" (which means
+that either (a) the Software is used in production, or (b) Support
+Services are requested by Customer). During the Subscription Term,
+and subject to Customer's compliance with the terms and conditions
 of this Agreement, Couchbase grants to Customer a non-exclusive,
 non-transferable, non-sublicensable, fee bearing license to install
 and use the Software and Documentation only for Customer's own internal
@@ -89,7 +88,6 @@ with any additional license terms specified in the applicable Order,
 and for no other purposes whatsoever.
 
 3. Restrictions.
-
 3.1 Customer shall not:
 (a) copy or use the Software and Documentation in any manner except as
 expressly permitted in this Agreement;
@@ -127,7 +125,6 @@ this Agreement are cumulative and in addition to, and not in lieu of
 any other remedy of Couchbase as law or in equity.
 
 4. Services.
-
 4.1 This Section applies only to Enterprise Licenses, but not to Free
 Licenses. The parties may agree to have Couchbase provide additional
 Professional Services, which shall be set forth on the applicable Order or
@@ -135,7 +132,6 @@ SOW signed by both parties. Such Professional Services shall be governed
 by the terms and conditions of this Agreement.
 
 5. Proprietary Rights.
-
 5.1 The Software (and any modifications or derivatives thereto) and
 all Documentation and Professional Services, are and shall remain the
 sole property of Couchbase and its licensors. Except for the license
@@ -152,7 +148,6 @@ accompanying the Software.
 
 5.3 If Customer is the United States Government or any contractor thereof,
 all licenses granted hereunder are subject to the following:
-
 (a) for acquisition by or on behalf of civil agencies, as necessary
 to obtain protection as "commercial computer software" and related
 documentation in accordance with the terms of this Agreement and as
@@ -166,7 +161,6 @@ and 227.7202-3 of the DOD FAR Supplement, 48 C.F.R.227.7202-1 and
 227.7202-3, and its successors, manufacturer is Couchbase, Inc.
 
 6. Support.
-
 6.1 This Section applies only to Enterprise Licenses, but not to Free
 Licenses. Couchbase will provide Customer with the level of Support
 indicated on the applicable Order and paid for by Customer. For all
@@ -186,7 +180,6 @@ for all instances on all sides of the replication connection, including if
 one side of the connection is only used for disaster recovery or backup.
 
 7. Fees.
-
 7.1 This Section applies only to Enterprise Licenses, but not to
 Free Licenses. Customer will pay Couchbase the Fee(s) in advance,
 unless otherwise indicated in the applicable Order. All payments are
@@ -200,7 +193,6 @@ reasonable costs and expenses incurred (including reasonable attorneys'
 fees) in collecting any overdue amounts.
 
 7.2 All Fees payable under this Agreement are:
-
 (a) net amounts and are payable in full, without deduction for taxes or
 duties of any kind;
 (b) exclusive of, and Customer is responsible for, all duties and taxes
@@ -217,7 +209,7 @@ the PO or sending a written order acknowledgment of acceptance of the PO
 in such case the only terms listed on the accepted PO which will form
 the Order are the Commercial Details; and all other terms (whether
 additional or conflicting with this Agreement) on the PO will be void and
-without effect, even if Couchbase signs the PO. All accepted POs will
+without effect, even if Couchbase signs the PO.  All accepted POs will
 automatically be governed by this Agreement (even if the PO does not
 reference this Agreement). It is expressly agreed that Section 7 shall
 apply in respect of any PO sent by Customer and accepted by Couchbase. It
@@ -225,7 +217,6 @@ is expressly agreed that this Section 7.3 shall apply in respect of any
 PO sent by Customer to Couchbase.
 
 8. Records Retention and Audit.
-
 8.1 Customer shall maintain complete and accurate records to permit
 Couchbase to verify Customer's compliance with this Agreement (including
 the number of Licensed Nodes and Licensed Devices used by Customer),
@@ -246,7 +237,6 @@ then Customer will also pay Couchbase's reasonable costs of conducting
 the audit.
 
 9. Confidentiality.
-
 9.1 Customer and Couchbase will maintain the confidentiality of
 Confidential Information. "Confidential Information" means any proprietary
 information received by the other party during, or prior to entering into,
@@ -278,7 +268,6 @@ Confidential Information. A party may disclose the other party's
 Confidential Information to the extent required by law or regulation.
 
 10. DISCLAIMER OF WARRANTY.
-
 10.1 THE SOFTWARE, DOCUMENTATION AND ANY PROFESSIONAL SERVICES PROVIDED
 HEREUNDER ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND AND
 NEITHER COUCHBASE, ANY OF ITS AFFILAITES OR LICENSORS (COLLECTIVELY,
@@ -298,7 +287,6 @@ FAIL-SAFE PERFORMANCE WHERE THE FAILURE OF THE PRODUCT COULD LEAD TO
 DEATH, PERSONAL INJURY, OR SIGNIFICANT PHYSICAL OR ENVIRONMENTAL DAMAGE.
 
 11. Indemnification of Third-Party Claims.
-
 11.1 Couchbase Indemnification. Subject to the terms of this Section 11.1,
 Couchbase will indemnify and defend Customer from and against any damages
 finally awarded against Customer in connection with any third party
@@ -373,7 +361,7 @@ alleged infringement. The Couchbase indemnification obligations will
 not apply to any claim to the extent it arises from any matter for which
 Customer is obligated to indemnify Couchbase pursuant to Section 11.3.
 
-11.5 Sole Remedy.  THE TERMS OF THIS SECTION 11 CONSTITUTE THE ENTIRE
+11.5 Sole Remedy. THE TERMS OF THIS SECTION 11 CONSTITUTE THE ENTIRE
 LIABILITY OF COUCHBASE, AND CUSTOMER'S SOLE AND EXCLUSIVE REMEDY WITH
 RESPECT TO ANY THIRD-PARTY CLAIMS OF INFRINGEMENT OR MISAPPROPRIATION
 OF INTELLECTUAL PROPERTY RIGHTS OF ANY KIND.
@@ -405,9 +393,8 @@ herein, which allocate the risk between Couchbase and Customer and form
 a basis of the bargain between the parties.
 
 13. Term and Termination.
-
 13.1 This Agreement shall begin on the Effective Date and shall apply to
-all Orders that reference this Agreement, and shall remain in effect until
+all Orders that reference this Agreement and shall remain in effect until
 terminated by the party sending written notice to the other party. As
 to the Software, the "Subscription Term" for Enterprise Licenses shall
 begin on the earlier of (a) the Order effective date, or (b) the first
@@ -419,17 +406,18 @@ Term begins on the date of download, and lasts until terminated.
 may terminate an Order or terminate this Agreement if the other party
 materially breaches its obligations hereunder and, where such breach
 is curable, such breach remains uncured for thirty (30) days following
-written notice of the breach. Customer's obligation to make a payment
-of any outstanding, unpaid fees shall survive termination of an Order
-or this Agreement. Upon termination or expiration of any Order or this
-Agreement, Customer will promptly return or destroy (and provide written
-certification of such destruction) the Software, Documentation and
-Deliverables and all copies and portions thereof, in all forms and types
-of media. The following sections will survive termination or expiration
-of any Order and/or this Agreement: Sections 3-5, 7-14.
+written notice of the breach. Customer's obligation to make a payment of
+any outstanding, unpaid fees shall survive termination of an Order or this
+Agreement. Upon termination or expiration of any Order or this Agreement,
+Customer will promptly return, destroy (and provide written certification
+of such destruction) the, Documentation and Deliverables and all copies
+and portions thereof, in all forms and types of media, and uninstall
+the Software as described in the then-current Couchbase uninstallation
+instructions (located https://docs.couchbase.com/manual/uninstall/). The
+following sections will survive termination or expiration of any Order
+and/or this Agreement: Sections 3-5, 7-14.
 
 14. General.
-
 14.1 Neither party shall be liable for any delay or failure in performance
 (except for any payment obligations by Customer) due to causes beyond
 its reasonable control.
@@ -511,41 +499,13 @@ or by facsimile shall be deemed original signatures.
 a signed Order, but also to use of the Software pursuant to any Order
 signed by You or Customer.
 
-14.14  This Agreement applies to all versions of the Software, except
-the Developer Preview version (defined below), including test, developer
-build, alpha, beta and trial versions. However, in the event Customer
-has installed or is using a test, developer build, alpha, beta or trial
-version of any Couchbase software ("Beta Software"), notwithstanding
-anything to the contrary in this Agreement, by installing or using the
-Beta Software, Customer acknowledges and agrees to the following, with
-respect to such Beta Software:  (a) the license granted to Customer with
-respect to the Beta Software is revocable and terminable at any time
-in Couchbase's sole and absolute discretion. Couchbase may withdraw
-or discontinue the Beta Software at any time.   (b) Couchbase is not
-obligated to provide any services, including Support, updates, patches,
-enhancements or fixes.  (c) Couchbase may use any data, feedback
-or information that Customer makes available to Couchbase or that
-Couchbase derives or generates from Customer's use of the Beta Software
-("Feedback"), and Customer hereby grants Couchbase a royalty-free,
-fully paid-up, non-exclusive, transferable, sublicensable, perpetual,
-irrevocable license to use, copy, modify, make derivative works of,
-distribute, perform and display such Feedback for any purpose, including
-to improve and develop the Beta Software. (D) GIVEN THAT THE BETA SOFTWARE
-IS IN DEVELOPMENT ONLY: (i) ANY OBLIGATION UNDER THIS AGREEMENT FOR
-COUCHBASE TO INDEMNIFY OR DEFEND CUSTOMER DOES NOT APPLY TO THE BETA
-SOFTWARE; and (ii) IN LIEU OF THE AGGREGATE LIABILITY AMOUNT SET FORTH
-IN SECTION 12 OF THIS AGREEMENT, IN NO EVENT WILL THE COUCHBASE PARTIES
-AGGREGATE LIABILITY TO CUSTOMER, FROM ALL CAUSES OF ACTION AND UNDER ALL
-THEORIES OF LIABILITY IN CONNECTION WITH THE BETA SOFTWARE EXCEED $100.
+-----------------------------------------
 
-
-IMPORTANT CLARIFICATION: If you use any of the Developer Preview features,
-the Agreement above does not apply.  Instead, the "Developer Preview
-Trial License Agreement - Free Edition" solely governs your use of the
-Developer Preview features and code.
-
+IMPORTANT CLARIFICATION:  If you use any of the Developer Preview
+features, the License Agreement above does not apply.  Instead, the
+"Developer Preview Trial License Agreement - Free Edition" solely governs
+your use of the Developer Preview features and code.
  Developer Preview Trial License Agreement - Free Edition
-
 IMPORTANT-READ CAREFULLY:  BY INSTALLING, DOWNLOADING OR OTHERWISE
 USING THIS SOFTWARE AND ANY ASSOCIATED DOCUMENTATION, YOU, ON BEHALF
 OF YOURSELF OR AS AN AUTHORIZED REPRESENTATIVE ON BEHALF OF AN ENTITY
@@ -557,73 +517,63 @@ WITH ALL OF THESE TERMS, DO NOT INSTALL, DOWNLOAD OR OTHERWISE USE THE
 SOFTWARE. THE "EFFECTIVE DATE" OF THIS AGREEMENT IS THE DATE ON WHICH
 YOU FIRST INSTALL, DOWNLOAD OR USE THE SOFTWARE.
 
-1. License Grant.
-
-Subject to Licensee's compliance with the terms and conditions of this
-Agreement, Couchbase Inc. hereby grants to Licensee a, non-exclusive,
-non-transferable, non-sublicensable, royalty-free, limited license
-to install and use the Software only for Licensee's own internal
+1. License Grant. Subject to Licensee's compliance with the terms and
+conditions of this Agreement, Couchbase Inc. hereby grants to Licensee a,
+non-exclusive, non-transferable, non-sublicensable, royalty-free, limited
+license to install and use the Software only for Licensee's own internal
 non-production use for the purpose of evaluation and/or development.
 
-2. Restrictions.
+2. Restrictions. Licensee will not: (a) copy or use the Software
+in any manner except as expressly permitted in this Agreement;
+(b) [intentionally omitted]; (c) transfer, sell, rent, lease, lend,
+distribute, or sublicense the Software to any third party; (d) use the
+Software for providing time-sharing services, service bureau services
+or as part of an application services provider or as a service offering
+primarily designed to offer the functionality of the Software; (e)
+reverse engineer, disassemble, or decompile the Software (except to
+the extent such restrictions are prohibited by law); (f) alter, modify,
+enhance or prepare any derivative work from or of the Software; (g) alter
+or remove any proprietary notices in the Software; (h) make available
+to any third party the functionality of the Software or any license keys
+used in connection with the Software; (i) publicly display or communicate
+the results of internal performance testing or other benchmarking or
+performance evaluation of the Software; or (j) export the Software in
+violation of U.S. Department of Commerce export administration rules
+or any other export laws or regulations. If Licensee does not comply
+with the license terms or the foregoing restrictions, Couchbase Inc. may
+terminate or suspend Licensee's account and access to the Software until
+Licensee comes into compliance with such terms and restrictions.
 
-Licensee will not: (a) copy or use the Software in any manner except as
-expressly permitted in this Agreement; (b) [intentionally omitted]; (c)
-transfer, sell, rent, lease, lend, distribute, or sublicense the Software
-to any third party; (d) use the Software for providing time-sharing
-services, service bureau services or as part of an application services
-provider or as a service offering primarily designed to offer the
-functionality of the Software; (e) reverse engineer, disassemble,
-or decompile the Software (except to the extent such restrictions are
-prohibited by law); (f) alter, modify, enhance or prepare any derivative
-work from or of the Software; (g) alter or remove any proprietary notices
-in the Software; (h) make available to any third party the functionality
-of the Software or any license keys used in connection with the Software;
-(i) publicly display or communicate the results of internal performance
-testing or other benchmarking or performance evaluation of the Software;
-or (j) export the Software in violation of U.S. Department of Commerce
-export administration rules or any other export laws or regulations. If
-Licensee does not comply with the license terms or the foregoing
-restrictions, Couchbase Inc. may terminate or suspend Licensee's account
-and access to the Software until Licensee comes into compliance with
-such terms and restrictions.
-
-3. Proprietary Rights.
-
-The Software, and any modifications or derivatives thereto, is and shall
-remain the sole property of Couchbase Inc. and its licensors, and, except
-for the license rights granted herein, Couchbase Inc. and its licensors
-retain all right, title and interest in and to the Software, including
-all intellectual property rights therein and thereto. The Software may
-include third party open source software components. If Licensee is
-the United States Government or any contractor thereof, all licenses
-granted hereunder are subject to the following: (a) for acquisition by
-or on behalf of civil agencies, as necessary to obtain protection as
-"commercial computer software" and related documentation in accordance
-with the terms of this Agreement and as specified in Subpart 12.1212
-of the Federal Acquisition Regulation (FAR), 48 C.F.R.12.1212, and its
-successors; and (b) for acquisition by or on behalf of the Department of
-Defense (DOD) and any agencies or units thereof, as necessary to obtain
+3. Proprietary Rights. The Software, and any modifications or derivatives
+thereto, is and shall remain the sole property of Couchbase Inc. and
+its licensors, and, except for the license rights granted herein,
+Couchbase Inc. and its licensors retain all right, title and interest in
+and to the Software, including all intellectual property rights therein
+and thereto. The Software may include third party open source software
+components. If Licensee is the United States Government or any contractor
+thereof, all licenses granted hereunder are subject to the following: (a)
+for acquisition by or on behalf of civil agencies, as necessary to obtain
+protection as "commercial computer software" and related documentation in
+accordance with the terms of this Agreement and as specified in Subpart
+12.1212 of the Federal Acquisition Regulation (FAR), 48 C.F.R.12.1212, and
+its successors; and (b) for acquisition by or on behalf of the Department
+of Defense (DOD) and any agencies or units thereof, as necessary to obtain
 protection as "commercial computer software" and related documentation in
 accordance with the terms of this Agreement and as specified in Subparts
 227.7202-1 and 227.7202-3 of the DOD FAR Supplement, 48 C.F.R.227.7202-1
 and 227.7202-3, and its successors. Manufacturer is Couchbase, Inc.
 
-4. Support.
+4. Support. Couchbase Inc. will not provide any technical or other
+product support for the Software.
 
-Couchbase Inc. will not provide any technical or other product support
-for the Software.
-
-5. Confidentiality.
-
-Licensee and Couchbase Inc. will maintain the confidentiality of
-Confidential Information. The receiving party of any Confidential
-Information of the other party agrees not to use such Confidential
-Information for any purpose except as necessary to fulfill its obligations
-and exercise its rights under this Agreement. The receiving party
-shall protect the secrecy of and prevent disclosure and unauthorized
-use of the disclosing party's Confidential Information using the
-same degree of care that it takes to protect its own confidential
+5. Confidentiality. Licensee and Couchbase Inc. will maintain the
+confidentiality of Confidential Information. The receiving party of
+any Confidential Information of the other party agrees not to use
+such Confidential Information for any purpose except as necessary to
+fulfill its obligations and exercise its rights under this Agreement. The
+receiving party shall protect the secrecy of and prevent disclosure and
+unauthorized use of the disclosing party's Confidential Information using
+the same degree of care that it takes to protect its own confidential
 information and in no event shall use less than reasonable care. The
 terms of this Confidentiality section shall survive termination of this
 Agreement. Upon termination or expiration of this Agreement, the receiving
@@ -631,68 +581,64 @@ party will, at the disclosing party's option, promptly return or destroy
 (and provide written certification of such destruction) the disclosing
 party's Confidential Information.
 
-6. Disclaimer of Warranty.
+6. Disclaimer of Warranty. THE SOFTWARE AND ANY SERVICES PROVIDED
+HEREUNDER ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. COUCHBASE
+INC. DOES NOT WARRANT THAT THE SOFTWARE OR THE SERVICES PROVIDED HEREUNDER
+WILL MEET LICENSEE'S REQUIREMENTS, THAT THE SOFTWARE WILL OPERATE IN
+THE COMBINATIONS LICENSEE MAY SELECT FOR USE, THAT THE OPERATION OF THE
+SOFTWARE WILL BE ERROR-FREE OR UNINTERRUPTED OR THAT ALL SOFTWARE ERRORS
+WILL BE CORRECTED. COUCHBASE INC. HEREBY DISCLAIMS ALL WARRANTIES, EITHER
+EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT,
+TITLE, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING, USAGE
+OR TRADE. COUCHBASE DOES NOT WARRANT THAT THE SOFTWARE IS DESIGNED,
+MANUFACTURED, OR INTENDED FOR USE IN HAZARDOUS ENVIRONMENTS REQUIRING
+FAIL-SAFE PERFORMANCE WHERE THE FAILURE OF THE PRODUCT COULD LEAD TO
+DEATH, PERSONAL INJURY, OR SIGNIFICANT PHYSICAL OR ENVIRONMENTAL DAMAGE.
 
-THE SOFTWARE AND ANY SERVICES PROVIDED HEREUNDER ARE PROVIDED "AS IS"
-WITHOUT WARRANTY OF ANY KIND. COUCHBASE INC. DOES NOT WARRANT THAT
-THE SOFTWARE OR THE SERVICES PROVIDED HEREUNDER WILL MEET LICENSEE'S
-REQUIREMENTS, THAT THE SOFTWARE WILL OPERATE IN THE COMBINATIONS LICENSEE
-MAY SELECT FOR USE, THAT THE OPERATION OF THE SOFTWARE WILL BE ERROR-FREE
-OR UNINTERRUPTED OR THAT ALL SOFTWARE ERRORS WILL BE CORRECTED. COUCHBASE
-INC. HEREBY DISCLAIMS ALL WARRANTIES, EITHER EXPRESSED OR IMPLIED,
-INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, TITLE, AND ANY
-WARRANTIES ARISING OUT OF COURSE OF DEALING, USAGE OR TRADE. COUCHBASE
-DOES NOT WARRANT THAT THE SOFTWARE IS DESIGNED, MANUFACTURED, OR INTENDED
-FOR USE IN HAZARDOUS ENVIRONMENTS REQUIRING FAIL-SAFE PERFORMANCE WHERE
-THE FAILURE OF THE PRODUCT COULD LEAD TO DEATH, PERSONAL INJURY, OR
-SIGNIFICANT PHYSICAL OR ENVIRONMENTAL DAMAGE.
+7. Agreement Term and Termination. The term of this Agreement shall begin
+on the Effective Date and will continue for the period of time noted
+in Section 1 above, at which time both the Agreement and the license
+stated herein shall expire. Couchbase Inc. may terminate this Agreement
+written notice. Upon termination of this Agreement, Licensee will, at
+Couchbase Inc.'s option, promptly return or destroy (and provide written
+certification of such destruction) the Documentation and all copies
+and portions thereof, in all forms and types of media and uninstall
+the Software as described in the then-current Couchbase uninstallation
+instructions (located https://docs.couchbase.com/manual/uninstall/). The
+following sections will survive termination or expiration of this
+Agreement: Sections 2, 3, 5, 6, 7, 8, 9, and 10.
 
-7. Agreement Term and Termination.
+8. Limitation of Liability. TO THE MAXIMUM EXTENT PERMITTED BY
+APPLICABLE LAW, IN NO EVENT WILL COUCHBASE INC. OR ITS LICENSORS BE
+LIABLE TO LICENSEE OR TO ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL,
+INCIDENTAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES OR FOR THE COST OF
+PROCURING SUBSTITUTE PRODUCTS OR SERVICES ARISING OUT OF OR IN ANY
+WAY RELATING TO OR IN CONNECTION WITH THIS AGREEMENT OR THE USE OF OR
+INABILITY TO USE THE SOFTWARE OR DOCUMENTATION OR THE SERVICES PROVIDED
+BY COUCHBASE INC. HEREUNDER INCLUDING, WITHOUT LIMITATION, DAMAGES OR
+OTHER LOSSES FOR LOSS OF USE, LOSS OF BUSINESS, LOSS OF GOODWILL, WORK
+STOPPAGE, LOST PROFITS, LOSS OF DATA, COMPUTER FAILURE OR ANY AND ALL
+OTHER COMMERCIAL DAMAGES OR LOSSES EVEN IF ADVISED OF THE POSSIBILITY
+THEREOF AND REGARDLESS OF THE LEGAL OR EQUITABLE THEORY (CONTRACT, TORT
+OR OTHERWISE) UPON WHICH THE CLAIM IS BASED. IN NO EVENT WILL COUCHBASE
+INC.'S OR ITS LICENSORS' AGGREGATE LIABILITY TO LICENSEE, FROM ALL CAUSES
+OF ACTION AND UNDER ALL THEORIES OF LIABILITY, EXCEED ONE HUNDRED DOLLARS
+(US $100). The parties expressly acknowledge and agree that Couchbase
+Inc. has set its prices and entered into this Agreement in reliance
+upon the limitations of liability specified herein, which allocate the
+risk between Couchbase Inc. and Licensee and form a basis of the bargain
+between the parties.
 
-The term of this Agreement shall begin on the Effective Date and will
-continue for the period of time noted in Section 1 above, at which time
-both the Agreement and the license stated herein shall expire. Couchbase
-Inc. may terminate this Agreement written notice. Upon termination of this
-Agreement, Licensee will, at Couchbase Inc.'s option, promptly return
-or destroy (and provide written certification of such destruction) the
-applicable Software and all copies and portions thereof, in all forms
-and types of media. The following sections will survive termination or
-expiration of this Agreement: Sections 2, 3, 5, 6, 7, 8, 9, and 10.
-
-8. Limitation of Liability.
-
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL
-COUCHBASE INC. OR ITS LICENSORS BE LIABLE TO LICENSEE OR TO ANY THIRD
-PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR EXEMPLARY
-DAMAGES OR FOR THE COST OF PROCURING SUBSTITUTE PRODUCTS OR SERVICES
-ARISING OUT OF OR IN ANY WAY RELATING TO OR IN CONNECTION WITH THIS
-AGREEMENT OR THE USE OF OR INABILITY TO USE THE SOFTWARE OR DOCUMENTATION
-OR THE SERVICES PROVIDED BY COUCHBASE INC. HEREUNDER INCLUDING, WITHOUT
-LIMITATION, DAMAGES OR OTHER LOSSES FOR LOSS OF USE, LOSS OF BUSINESS,
-LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, COMPUTER
-FAILURE OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR LOSSES EVEN IF ADVISED
-OF THE POSSIBILITY THEREOF AND REGARDLESS OF THE LEGAL OR EQUITABLE
-THEORY (CONTRACT, TORT OR OTHERWISE) UPON WHICH THE CLAIM IS BASED. IN
-NO EVENT WILL COUCHBASE INC.'S OR ITS LICENSORS' AGGREGATE LIABILITY TO
-LICENSEE, FROM ALL CAUSES OF ACTION AND UNDER ALL THEORIES OF LIABILITY,
-EXCEED ONE HUNDRED DOLLARS (US $100). The parties expressly acknowledge
-and agree that Couchbase Inc. has set its prices and entered into this
-Agreement in reliance upon the limitations of liability specified herein,
-which allocate the risk between Couchbase Inc. and Licensee and form a
-basis of the bargain between the parties.
-
-9. General.
-
-Couchbase Inc. shall not be liable for any delay or failure in performance
-due to causes beyond its reasonable control. Neither party will, without
-the other party's prior written consent, make any news release, public
-announcement, denial or confirmation of this Agreement, its value,
-or its terms and conditions, or in any manner advertise or publish the
-fact of this Agreement. Notwithstanding the above, Couchbase Inc. may
-use Licensee's name and logo, consistent with Licensee's trademark
-policies, on customer lists so long as such use in no way promotes
-either endorsement or approval of Couchbase Inc. or any Couchbase
+9. General. Couchbase Inc. shall not be liable for any delay or failure
+in performance due to causes beyond its reasonable control. Neither party
+will, without the other party's prior written consent, make any news
+release, public announcement, denial or confirmation of this Agreement,
+its value, or its terms and conditions, or in any manner advertise or
+publish the fact of this Agreement. Notwithstanding the above, Couchbase
+Inc. may use Licensee's name and logo, consistent with Licensee's
+trademark policies, on customer lists so long as such use in no way
+promotes either endorsement or approval of Couchbase Inc. or any Couchbase
 Inc. products or services. Licensee may not assign this Agreement, in
 whole or in part, by operation of law or otherwise, without Couchbase
 Inc.'s prior written consent. Any attempt to assign this Agreement,
@@ -736,13 +682,11 @@ franchise, or agency between the parties. Neither party will have the
 power to bind the other or incur obligations on the other's behalf
 without the other's prior written consent.
 
-10. Definitions.
-
-Capitalized terms used herein shall have the following definitions:
-"Confidential Information" means any proprietary information received
-by the other party during, or prior to entering into, this Agreement
-that a party should know is confidential or proprietary based on
-the circumstances surrounding the disclosure including, without
+10. Definitions. Capitalized terms used herein shall have the following
+definitions: "Confidential Information" means any proprietary information
+received by the other party during, or prior to entering into, this
+Agreement that a party should know is confidential or proprietary based
+on the circumstances surrounding the disclosure including, without
 limitation, the Software and any non-public technical and business
 information. Confidential Information does not include information that
 (a) is or becomes generally known to the public through no fault of or
@@ -758,8 +702,7 @@ means www.Couchbase.com. "Software" means the object code version of the
 applicable elastic data management server software provided by Couchbase
 Inc. and downloaded by Licensee from the Couchbase Website or otherwise
 used by Licensee.
-
 If you have any questions regarding this Agreement, please contact us
 at sops@couchbase.com.
 
-LA v6: 07152019
+LA v7: 12Nov2019
