@@ -1,4 +1,5 @@
- COUCHBASE INC. LICENSE AGREEMENT
+COUCHBASE INC. LICENSE AGREEMENT
+
 IMPORTANT-READ CAREFULLY:  BY CLICKING THE "I ACCEPT" BOX OR INSTALLING,
 DOWNLOADING OR OTHERWISE USING THIS SOFTWARE AND ANY ASSOCIATED
 DOCUMENTATION, YOU, ON BEHALF OF YOURSELF AND AS AN AUTHORIZED
@@ -27,9 +28,9 @@ Professional Services.
 Couchbase related to the Software.
 "Fee" means the sum or fee specified on the applicable Order or SOW and
 includes any other fees or charges payable under this Agreement.
-"Licensed Devices" means a unique device (such as a mobile device,
-laptop, or IoT device) that stores data locally using the "Couchbase
-Lite" product.
+"Licensed Device" means a unique device (such as a mobile device, laptop,
+or IoT device) that stores data locally using the "Couchbase Lite"
+product during a rolling thirty (30) day period.
 "Licensed Node" means an instance of the Software running on a server,
 including a physical server, server blade, virtual machine, software
 container, or cloud server.
@@ -391,10 +392,9 @@ this Agreement in reliance upon the limitations of liability specified
 herein, which allocate the risk between Couchbase and Customer and form
 a basis of the bargain between the parties.
 
-
 13. Term and Termination.
 13.1 This Agreement shall begin on the Effective Date and shall apply to
-all Orders that reference this Agreement, and shall remain in effect until
+all Orders that reference this Agreement and shall remain in effect until
 terminated by the party sending written notice to the other party. As
 to the Software, the "Subscription Term" for Enterprise Licenses shall
 begin on the earlier of (a) the Order effective date, or (b) the first
@@ -406,14 +406,16 @@ Term begins on the date of download, and lasts until terminated.
 may terminate an Order or terminate this Agreement if the other party
 materially breaches its obligations hereunder and, where such breach
 is curable, such breach remains uncured for thirty (30) days following
-written notice of the breach. Customer's obligation to make a payment
-of any outstanding, unpaid fees shall survive termination of an Order
-or this Agreement. Upon termination or expiration of any Order or this
-Agreement, Customer will promptly return or destroy (and provide written
-certification of such destruction) the Software, Documentation and
-Deliverables and all copies and portions thereof, in all forms and types
-of media. The following sections will survive termination or expiration
-of any Order and/or this Agreement: Sections 3-5, 7-14.
+written notice of the breach. Customer's obligation to make a payment of
+any outstanding, unpaid fees shall survive termination of an Order or this
+Agreement. Upon termination or expiration of any Order or this Agreement,
+Customer will promptly return, destroy (and provide written certification
+of such destruction) the, Documentation and Deliverables and all copies
+and portions thereof, in all forms and types of media, and uninstall
+the Software as described in the then-current Couchbase uninstallation
+instructions (located https://docs.couchbase.com/manual/uninstall/). The
+following sections will survive termination or expiration of any Order
+and/or this Agreement: Sections 3-5, 7-14.
 
 14. General.
 14.1 Neither party shall be liable for any delay or failure in performance
@@ -500,9 +502,9 @@ signed by You or Customer.
 -----------------------------------------
 
 IMPORTANT CLARIFICATION:  If you use any of the Developer Preview
-features, the Agreement above does not apply.  Instead, the "Developer
-Preview Trial License Agreement - Free Edition" solely governs your use
-of the Developer Preview features and code.
+features, the License Agreement above does not apply.  Instead, the
+"Developer Preview Trial License Agreement - Free Edition" solely governs
+your use of the Developer Preview features and code.
  Developer Preview Trial License Agreement - Free Edition
 IMPORTANT-READ CAREFULLY:  BY INSTALLING, DOWNLOADING OR OTHERWISE
 USING THIS SOFTWARE AND ANY ASSOCIATED DOCUMENTATION, YOU, ON BEHALF
@@ -514,11 +516,13 @@ AUTHORITY TO BIND THE LICENSEE TO THIS AGREEMENT. IF YOU DO NOT AGREE
 WITH ALL OF THESE TERMS, DO NOT INSTALL, DOWNLOAD OR OTHERWISE USE THE
 SOFTWARE. THE "EFFECTIVE DATE" OF THIS AGREEMENT IS THE DATE ON WHICH
 YOU FIRST INSTALL, DOWNLOAD OR USE THE SOFTWARE.
+
 1. License Grant. Subject to Licensee's compliance with the terms and
 conditions of this Agreement, Couchbase Inc. hereby grants to Licensee a,
 non-exclusive, non-transferable, non-sublicensable, royalty-free, limited
 license to install and use the Software only for Licensee's own internal
 non-production use for the purpose of evaluation and/or development.
+
 2. Restrictions. Licensee will not: (a) copy or use the Software
 in any manner except as expressly permitted in this Agreement;
 (b) [intentionally omitted]; (c) transfer, sell, rent, lease, lend,
@@ -539,6 +543,7 @@ or any other export laws or regulations. If Licensee does not comply
 with the license terms or the foregoing restrictions, Couchbase Inc. may
 terminate or suspend Licensee's account and access to the Software until
 Licensee comes into compliance with such terms and restrictions.
+
 3. Proprietary Rights. The Software, and any modifications or derivatives
 thereto, is and shall remain the sole property of Couchbase Inc. and
 its licensors, and, except for the license rights granted herein,
@@ -557,8 +562,10 @@ protection as "commercial computer software" and related documentation in
 accordance with the terms of this Agreement and as specified in Subparts
 227.7202-1 and 227.7202-3 of the DOD FAR Supplement, 48 C.F.R.227.7202-1
 and 227.7202-3, and its successors. Manufacturer is Couchbase, Inc.
+
 4. Support. Couchbase Inc. will not provide any technical or other
 product support for the Software.
+
 5. Confidentiality. Licensee and Couchbase Inc. will maintain the
 confidentiality of Confidential Information. The receiving party of
 any Confidential Information of the other party agrees not to use
@@ -573,6 +580,7 @@ Agreement. Upon termination or expiration of this Agreement, the receiving
 party will, at the disclosing party's option, promptly return or destroy
 (and provide written certification of such destruction) the disclosing
 party's Confidential Information.
+
 6. Disclaimer of Warranty. THE SOFTWARE AND ANY SERVICES PROVIDED
 HEREUNDER ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. COUCHBASE
 INC. DOES NOT WARRANT THAT THE SOFTWARE OR THE SERVICES PROVIDED HEREUNDER
@@ -588,16 +596,19 @@ MANUFACTURED, OR INTENDED FOR USE IN HAZARDOUS ENVIRONMENTS REQUIRING
 FAIL-SAFE PERFORMANCE WHERE THE FAILURE OF THE PRODUCT COULD LEAD TO
 DEATH, PERSONAL INJURY, OR SIGNIFICANT PHYSICAL OR ENVIRONMENTAL DAMAGE.
 
-7. Agreement Term and Termination. The term of this Agreement shall
-begin on the Effective Date and will continue for the period of time
-noted in Section 1 above, at which time both the Agreement and the
-license stated herein shall expire. Couchbase Inc. may terminate
-this Agreement written notice. Upon termination of this Agreement,
-Licensee will, at Couchbase Inc.'s option, promptly return or destroy
-(and provide written certification of such destruction) the applicable
-Software and all copies and portions thereof, in all forms and types of
-media. The following sections will survive termination or expiration of
-this Agreement: Sections 2, 3, 5, 6, 7, 8, 9, and 10.
+7. Agreement Term and Termination. The term of this Agreement shall begin
+on the Effective Date and will continue for the period of time noted
+in Section 1 above, at which time both the Agreement and the license
+stated herein shall expire. Couchbase Inc. may terminate this Agreement
+written notice. Upon termination of this Agreement, Licensee will, at
+Couchbase Inc.'s option, promptly return or destroy (and provide written
+certification of such destruction) the Documentation and all copies
+and portions thereof, in all forms and types of media and uninstall
+the Software as described in the then-current Couchbase uninstallation
+instructions (located https://docs.couchbase.com/manual/uninstall/). The
+following sections will survive termination or expiration of this
+Agreement: Sections 2, 3, 5, 6, 7, 8, 9, and 10.
+
 8. Limitation of Liability. TO THE MAXIMUM EXTENT PERMITTED BY
 APPLICABLE LAW, IN NO EVENT WILL COUCHBASE INC. OR ITS LICENSORS BE
 LIABLE TO LICENSEE OR TO ANY THIRD PARTY FOR ANY INDIRECT, SPECIAL,
@@ -618,6 +629,7 @@ Inc. has set its prices and entered into this Agreement in reliance
 upon the limitations of liability specified herein, which allocate the
 risk between Couchbase Inc. and Licensee and form a basis of the bargain
 between the parties.
+
 9. General. Couchbase Inc. shall not be liable for any delay or failure
 in performance due to causes beyond its reasonable control. Neither party
 will, without the other party's prior written consent, make any news
@@ -669,6 +681,7 @@ establish any relationship of partnership, joint venture, employment,
 franchise, or agency between the parties. Neither party will have the
 power to bind the other or incur obligations on the other's behalf
 without the other's prior written consent.
+
 10. Definitions. Capitalized terms used herein shall have the following
 definitions: "Confidential Information" means any proprietary information
 received by the other party during, or prior to entering into, this
@@ -690,7 +703,6 @@ applicable elastic data management server software provided by Couchbase
 Inc. and downloaded by Licensee from the Couchbase Website or otherwise
 used by Licensee.
 If you have any questions regarding this Agreement, please contact us
-at sales@couchbase.com.
+at sops@couchbase.com.
 
-LA v5: 03262019
-
+LA v7: 12Nov2019
