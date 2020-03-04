@@ -1,4 +1,4 @@
-Last updated October 31, 2019. Replaces all prior versions.
+Last updated February 28, 2020. Replaces all prior versions.
 
 Couchbase, Inc.
 Community Edition License Agreement
@@ -70,13 +70,10 @@ or laws, or that infringes, misappropriates or otherwise violates any
 right of any third party; (d) sell, license, sublicense, distribute,
 offer or provide the Community Software on a standalone basis; (e)
 directly share, commercialize, sell, transfer, license or sublicense
-the Community Software; (f) use the Community Software for providing
-time-sharing or service bureau services or to provide any managed services
-of the Community Software; (g) host or offer to host any instance of the
-Community Software for a third party; or (h) make any representations
-or warranties regarding the Community Software. This agreement does not
-grant any rights to any commercial/enterprise (non-community) edition
-of our software or services, which are subject to separate terms.
+the Community Software; or (f) make any representations or warranties
+regarding the Community Software. This agreement does not grant any rights
+to any commercial/enterprise (non-community) edition of our software or
+services, which are subject to separate terms.
 
 6. Verification of Use. We may verify that you are using the Community
 Software in compliance with this agreement, including without limitation
@@ -174,4 +171,4 @@ consumer rights, under the laws of your state or country, this agreement
 does not change those other rights if the laws of your state or country
 do not permit it to do so.
 
-CCELA/Oct2019/v1
+CCELA/Feb2020/v2
