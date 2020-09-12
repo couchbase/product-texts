@@ -1,5 +1,4 @@
 COUCHBASE, INC. LICENSE AGREEMENT
-
 IMPORTANT-READ CAREFULLY:  BY CLICKING THE "I ACCEPT" BOX OR INSTALLING,
 DOWNLOADING OR OTHERWISE USING THIS SOFTWARE AND ANY ASSOCIATED
 DOCUMENTATION, YOU, ON BEHALF OF YOURSELF AND AS AN AUTHORIZED
@@ -621,6 +620,7 @@ into this Agreement.
 each of which shall be deemed an original, but all of which together
 shall constitute one instrument. Signatures transmitted electronically
 or by facsimile shall be deemed original signatures.
+
 15.13 This Agreement is applicable both to use of the Software without
 a signed Order, but also to use of the Software pursuant to any Order
 signed by You or Customer.
@@ -631,10 +631,12 @@ IMPORTANT CLARIFICATION: From time to time, Couchbase may release
 versions of the Software and/or certain features that are not generally
 available (the "Non-GA Offering"), including test, alpha, beta, trial,
 pre-production, preview and/or developer preview versions or features,
-at no additional charge. If Customer uses any Non-GA Offering,	then
-the same terms and conditions of the "Free Licenses" under the Agreement
+at no additional charge. If Customer uses any Non-GA Offering, then the
+same terms and conditions of the "Free Licenses" under the Agreement
 above shall apply, subject to the modifications below.
+
 Non-GA Offering Supplemental Terms
+
 For any Non-GA Offering, the definition of Software in Section 1 of
 the Agreement shall be replaced by the following and all references to
 "Software" in the applicable provisions shall refer to the below instead:
@@ -714,6 +716,7 @@ Non-GA Offering Licenses, in its sole discretion, or (iv) either party
 terminates this Agreement as set forth in this Section, provided that
 the parties' rights and obligations of the provisions listed in Section
 13.4 shall survive any termination.
+
 If you have any questions regarding this Agreement, please contact us
 at legal@couchbase.com.
 
