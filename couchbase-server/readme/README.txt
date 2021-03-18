@@ -1,16 +1,16 @@
 COUCHBASE SERVER
 
 Couchbase Server is a leading enterprise-class, multi-cloud to edge, NoSQL
-database.  Couchbase Server enables developers to build applications with
+database. Couchbase Server enables developers to build applications with
 agility by combining the flexibility of JSON data with the power of SQL-like
-queries using N1QL or through built-in, full-text search capabilities.
+queries, using N1QL, or through built-in full-text search capabilities.
 
 The platform gives you the flexibility required to deliver the next-generation
-customer experience, from any cloud to every edge device.  Using in-memory
+customer experience, from any cloud to every edge device. Using in-memory
 dataset capabilities, the platform can be scaled to match needs for volume,
 volatility, and speed of data.
 
-By providing a flexible data model, consistently high performance, elastic
+By providing a flexible data model, consistent high performance, elastic
 scalability, and always-on availability, Couchbase Server enables enterprises
 to operate at any scale with enterprise-level security.
 
@@ -24,33 +24,31 @@ is available on port 8091 by default.
 
 Refer to the documentation for setup instructions.
 
-
 INSTALLATION
 
 Mac OS X has a security policy that requires downloaded software be installed
 into the Applications directory. This can be achieved by copying the Couchbase
 Server application into that folder before launching.
 
-
 DOCUMENTATION
 
 The online documentation library is available at:
-http://developer.couchbase.com/documentation-archive
-
+https://developer.couchbase.com/documentation-archive
 
 THIRD-PARTY LICENSE INFORMATION
 
 Couchbase uses third-party libraries or other resources that may be
 distributed under licenses different from the one that governs Couchbase
-Server. You can find the licenses for each third- party component below and/or
-at: https://www.couchbase.com/legal/agreements.
+Server. You can find the licenses for each third-party component below, in the
+accompanying license file(s), and/or at:
+https://www.couchbase.com/legal/agreements
 
 Couchbase Server includes the libgcc and libstdc++ runtime libraries, which
 are made available under the GNU General Public License v3.0 w/GCC Runtime
 Library exception. The source code for both is part of the GNU Compiler
 Collection, or GCC, which is available for download at: https://gcc.gnu.org/
 
-Couchbase Server also includes libnuma1, which is made available under the GNU
+Couchbase Server also includes libnuma1 which is made available under the GNU
 Lesser General Public License v2.1. The source code for libnuma1 is part of
 the numactl project, which is available here:
 https://github.com/numactl/numactl
