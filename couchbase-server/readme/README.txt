@@ -33,7 +33,7 @@ Server application into that folder before launching.
 DOCUMENTATION
 
 The online documentation library is available at:
-https://developer.couchbase.com/documentation-archive
+https://docs.couchbase.com/home/index.html
 
 THIRD-PARTY LICENSE INFORMATION
 
