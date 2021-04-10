@@ -1,18 +1,18 @@
 COUCHBASE, INC. LICENSE AGREEMENT
-IMPORTANT-READ CAREFULLY:  BY CLICKING THE "I ACCEPT" BOX OR INSTALLING,
+IMPORTANT--READ CAREFULLY:  BY CLICKING THE "I ACCEPT" BOX OR INSTALLING,
 DOWNLOADING OR OTHERWISE USING THIS SOFTWARE AND ANY ASSOCIATED
-DOCUMENTATION, YOU, ON BEHALF OF YOURSELF AND AS AN AUTHORIZED
-REPRESENTATIVE ON BEHALF OF AN ENTITY ("CUSTOMER") AGREE TO ALL
-THE TERMS OF THIS LICENSE AGREEMENT AND, IF APPLICABLE, THE NON-GA
-OFFERING SUPPLEMENTAL TERMS (COLLECTIVELY, THE "AGREEMENT") REGARDING
-CUSTOMER'S USE OF THE SOFTWARE. YOU REPRESENT AND WARRANT THAT YOU HAVE
-FULL LEGAL AUTHORITY TO BIND CUSTOMER TO THIS AGREEMENT. IF YOU DO NOT
-AGREE WITH ALL OF THESE TERMS, DO NOT SELECT THE "I ACCEPT" BOX AND DO
-NOT INSTALL, DOWNLOAD OR OTHERWISE USE THE SOFTWARE. THE EFFECTIVE DATE
-OF THIS AGREEMENT IS THE DATE ON WHICH YOU CLICK "I ACCEPT" OR OTHERWISE
-INSTALL, DOWNLOAD OR USE THE SOFTWARE.
+DOCUMENTATION, YOU, ON BEHALF OF YOURSELF AND/OR AS AN AUTHORIZED
+REPRESENTATIVE ON BEHALF OF AN ENTITY (COLLECTIVELY, "CUSTOMER"),
+AGREE TO ALL THE TERMS OF THIS LICENSE AGREEMENT AND, IF APPLICABLE,
+THE NON-GA OFFERING SUPPLEMENTAL TERMS (COLLECTIVELY, THE "AGREEMENT")
+REGARDING CUSTOMER'S USE OF THE SOFTWARE. YOU REPRESENT AND WARRANT THAT
+YOU HAVE FULL LEGAL AUTHORITY TO BIND CUSTOMER TO THIS AGREEMENT. IF
+YOU DO NOT AGREE WITH ALL OF THESE TERMS, DO NOT SELECT THE "I ACCEPT"
+BOX AND DO NOT INSTALL, DOWNLOAD OR OTHERWISE USE THE SOFTWARE. THE
+EFFECTIVE DATE OF THIS AGREEMENT IS THE DATE ON WHICH YOU CLICK "I ACCEPT"
+OR OTHERWISE INSTALL, DOWNLOAD OR USE THE SOFTWARE.
 
-1. Definitions.
+    1. Definitions.
 1.1 Capitalized terms used herein shall have the following definitions:
 "Commercial Details" means the identified product(s), quantity (number
 of Licensed Nodes and/or Licensed Devices), price, server size metric,
@@ -68,6 +68,9 @@ available by Couchbase) as described in the then-current Couchbase
 support services terms at www.couchbase.com/support-policy.
 "SOW" means a transaction document or Order identifying Professional
 Services purchased.
+"Privacy Notice" means the privacy notice located at
+https://www.couchbase.com/privacy-policy (and any successor or related
+locations designated by us), as it may be updated by us from time to time.
 "Professional Services" means consulting services and Deliverables as
 identified in the applicable Order or SOW, provided by Couchbase to
 Customer, using commercially reasonable efforts.
@@ -85,7 +88,7 @@ of this Agreement, Couchbase grants to Customer a revocable, unpaid,
 non-exclusive, non-transferable, non-sublicensable, non-fee bearing
 download license to install and use the Software only for Customer's own
 internal testing and development use. Prior to using the Software in any
-Productive Use (as defined below, Customer agrees to enter into an Order
+Productive Use (as defined below), Customer agrees to enter into an Order
 with Couchbase and pay the applicable Fees. If, at any time, Customer
 uses the Software in Productive Use without an active Order, then (i)
 Customer acknowledges and agrees that its Free License is automatically
@@ -99,7 +102,7 @@ and absolute discretion.
 
 2.2 License Grant as to Enterprise Licenses. An "Enterprise License" is
 required if Customer makes any "Productive Use" (which means that either
-(a) the Software is used in production (e.g. in a Production Deployment),
+(a) the Software is used in production (e.g., in a Production Deployment),
 or (b) Support is requested by Customer). During the Subscription Term,
 and subject to Customer's compliance with the terms and conditions of
 this Agreement, Couchbase grants to Customer a revocable, non-exclusive,
@@ -110,36 +113,54 @@ the number of Licensed Devices) paid for by Customer and in accordance
 with any additional license terms specified in the applicable Order,
 and for no other purposes whatsoever.
 
-3. Restrictions.
+3. Customer Responsibilities.
 3.1 Customer shall not:
-(a) copy or use the Software and Documentation in any manner except as
-expressly permitted in this Agreement;
+(a) copy or use the Software, Documentation, or Deliverables in any
+manner except as expressly permitted in this Agreement;
 (b) for Enterprise Licenses, use or deploy the Software in excess of
 the number of Licensed Nodes and Licensed Devices for which Customer
 has paid the applicable Fee;
 (c) for Enterprise Licenses, use or deploy the Software in excess of
 the number of Cores and RAM for each Licensed Node for which Customer
 has paid the applicable Fee;
-(d) transfer, sell, rent, lease, lend, distribute, or sublicense the
-Software and Documentation to any third party;
+(d) transfer, sell, rent, lease, lend, distribute, market, commercialize
+or sublicense the Software, Documentation, or Deliverables to any third
+party, provided that Customer may use the Software in connection with
+an application made available to Customer's end users as long as they
+cannot access the Software directly;
 (e) use the Software for providing time-sharing services, service bureau
 services or as part of an application services provider or as a service
 offering primarily designed to offer the functionality of the Software;
 (f) reverse engineer, disassemble, or decompile the Software (except to
-the extent such restrictions are prohibited by law);
+the extent such restrictions are prohibited);
 (g) alter, modify, enhance or prepare any derivative work from or of
 the Software and Documentation;
-(h) alter or remove any proprietary notices in the Software and
-Documentation;
+(h) alter or remove any proprietary notices in the Software, Documentation
+or Deliverables;
 (i) for Enterprise Licenses, use or transfer Licensed Nodes and/or
 Licensed Devices designated to a particular Production Deployment or
 project to another or new Production Deployment or project; or
-(j) use the Software and/or Documentation for the purposes of,
-or publicly display or communicate the results of,  benchmarking or
+(j) use the Software, Documentation or Deliverables for the purposes
+of, or publicly display or communicate the results of,  benchmarking or
 competitive analysis of the Software, or developing, using, providing,
 or supporting products or services competitive to Couchbase.
 
-3.2 If Customer does not comply with the license terms or the foregoing
+3.2. Customer shall comply with all applicable laws in connection with
+its use of the Software, Deliverables, Professional Services and Support,
+including but not limited to applicable international and domestic export
+controls, including economic sanctions, laws, regulations, or orders that
+apply to Customer, the Software, the Deliverables, the Documentation and
+any related technology or services ("Export Laws"). In furtherance of
+this obligation, Customer shall ensure that: (a) Customer does not use the
+Software, technology or services in violation of any Export Laws; and (b)
+it does not provide access to the Software, technology or services to
+(i) persons on the U.S. Department of Commerce's Denied Persons List
+or Entity List, or the U.S. Treasury Department's list of Specially
+Designated Nationals, (ii) military end-users or for military end-use,
+or (iii) parties engaged in activities directly or indirectly related
+to the proliferation of weapons of mass destruction.
+
+3.3 If Customer does not comply with the license terms or the foregoing
 restrictions, Couchbase may (without refund or credit, if applicable,
 and without prejudice to any other rights or remedies Couchbase may have
 under this Agreement or at law), at its sole discretion: (i) terminate
@@ -149,7 +170,7 @@ and Documentation, or (ii) suspend Customer's Free and/or Enterprise
 License(s) to the Software and Documentation until Customer comes into
 compliance with such terms and restrictions.
 
-3.3 Customer acknowledges that a breach of its obligations to Couchbase
+3.4 Customer acknowledges that a breach of its obligations to Couchbase
 under this Agreement, other than the payment obligations, will result
 in irreparable and continuing damage for which monetary damages may not
 be sufficient, and agrees that Couchbase will be entitled to receive in
@@ -168,7 +189,15 @@ to Customer, which shall be set forth on an Order or SOW signed by both
 parties. Such Professional Services shall be governed by the terms and
 conditions of this Agreement.
 
-4.3 Unless explicitly set forth in an Order or SOW, any Professional
+4.3 Professional Services and any Deliverables are accepted when delivered
+unless otherwise set forth in an Order or SOW. Couchbase may engage
+qualified subcontractors to provide the Professional Services, provided
+that Couchbase remains responsible for any subcontractor's compliance with
+this Agreement. Couchbase grants to Customer a royalty-free, perpetual,
+non-exclusive, non-transferable, non-sublicensable license to use and
+reproduce any Deliverables for Customer's internal business purposes.
+
+4.4 Unless explicitly set forth in an Order or SOW, any Professional
 Services purchased under this Agreement shall expire upon the end of the
 Subscription Term. Any unused Professional Services after the end of the
 Subscription Term shall expire without refund of any prepaid Fees. For
@@ -181,21 +210,30 @@ Professional Services or otherwise) on-site activities at Customer's
 site upon receiving an invoice from Couchbase.
 
 5. Proprietary Rights.
-5.1 The Software (including the source code, any modifications,
-improvements, enhancements or derivatives thereto) and all Documentation
-and Professional Services, are and shall remain the sole property of
-Couchbase and its licensors. Except for the license rights granted under
-this Agreement, Couchbase and its licensors retain all right, title and
-interest in and to the Software, Documentation and Professional Services,
-including all intellectual property rights therein and thereto.
+5.1 This Agreement does not transfer any right, title or interest in any
+intellectual property to any party, except as expressly set forth in this
+Agreement. The Software (including the source code, any modifications,
+improvements, enhancements or derivatives thereto), any Deliverables,
+and all Documentation and Professional Services, are and shall remain
+the sole property of Couchbase and its licensors. Except for the license
+rights granted under this Agreement, Couchbase and its licensors retain
+all right, title and interest in and to the Software, Documentation,
+Deliverables, and Professional Services, including all intellectual
+property rights therein and thereto.
 
 5.2 The Software may include third party open source software components
 and such third-party components shall be licensed to Customer under the
 terms of the applicable open source license conditions and/or copyright
-notices that can be found in the licenses file, Documentation or materials
-accompanying the Software.
+notices that can be found in the licenses files, Documentation or
+materials accompanying the Software.
 
-5.3 If Customer is the United States Government or any contractor thereof,
+5.3 If Customer provides any suggestions or feedback regarding the
+Software, Documentation, Support, Deliverables, or Professional Services,
+Couchbase may use such information without obligation to Customer,
+and Customer hereby irrevocably assigns to Couchbase all right, title,
+and interest in that feedback or those suggestions.
+
+5.4 If Customer is the United States Government or any contractor thereof,
 all licenses granted hereunder are subject to the following:
 
 (a) for acquisition by or on behalf of civil agencies, as necessary
@@ -230,6 +268,10 @@ level than the Production Deployment(s).
 have all Licensed Nodes and Licensed Devices at the same level of Support
 for all instances on all sides of the replication connection, including if
 one side of the connection is only used for disaster recovery or backup.
+
+6.4 Couchbase may modify the terms of Support from time to time, provided
+that such modifications do not materially and adversely affect Customer's
+Support subscription.
 
 7. Fees.
 7.1 This Section 7 applies only to Enterprise Licenses fully paid for
@@ -391,7 +433,7 @@ to this Agreement, any Order, Customers actions or those of Couchbase;
 and (e) Customer agrees any damage award does not include any Fees owed
 to Couchbase.
 
-11.2 Injunction. Without limiting the forgoing, and notwithstanding
+11.2 Enjoinment. Without limiting the forgoing, and notwithstanding
 anything to the contrary in this Agreement, if use of the Software
 is enjoined, or Couchbase determines that such use may be enjoined,
 Couchbase will, at its sole option and expense, (i) procure for Customer
@@ -401,9 +443,9 @@ option (i) or (ii) is not commercially feasible in Couchbase's reasonable
 opinion, as applicable, terminate the affected portions of an Order and
 refund Customer any prepaid but unused Fees for the affected Software.
 
-11.3 Customer Indemnification. Customer will indemnify and defend
-Couchbase from and against any damages awarded against Couchbase in
-connection with any third-party claim arising out of (a) Customer's
+11.3 Customer Indemnification. Customer will indemnify and defend the
+Couchbase Parties from and against any damages awarded against Couchbase
+in connection with any third-party claim arising out of (a) Customer's
 use, operation or combination of the Software, including Customer's
 data or content, that infringes any United States patent, United States
 copyright or United States trademark; (b) use of, or inability to use the
@@ -441,9 +483,9 @@ not apply to any claim to the extent it arises from any matter for which
 Customer is obligated to indemnify Couchbase pursuant to Section 11.3.
 
 11.5 Sole Remedy. THE TERMS OF THIS SECTION 11 CONSTITUTE THE ENTIRE
-LIABILITY OF COUCHBASE, AND CUSTOMER'S SOLE AND EXCLUSIVE REMEDY WITH
-RESPECT TO ANY THIRD-PARTY CLAIMS OF INFRINGEMENT OR MISAPPROPRIATION
-OF INTELLECTUAL PROPERTY RIGHTS OF ANY KIND.
+LIABILITY OF THE COUCHBASE PARTIES, AND CUSTOMER'S SOLE AND EXCLUSIVE
+REMEDY WITH RESPECT TO ANY THIRD-PARTY CLAIMS OF INFRINGEMENT OR
+MISAPPROPRIATION OF INTELLECTUAL PROPERTY RIGHTS OF ANY KIND.
 
 11.6 Applicability. Section 11, excluding 11.3 above, applies only to
 Enterprise Licenses fully paid for by Customer and not to Free Licenses.
@@ -451,14 +493,14 @@ Enterprise Licenses fully paid for by Customer and not to Free Licenses.
 12. LIMITATION OF LIABILITY.
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL THE
 COUCHBASE PARTIES BE LIABLE TO CUSTOMER OR TO ANY THIRD PARTY FOR: (A)
-ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES;
-OR (B) THE COST OF PROCURING SUBSTITUTE PRODUCTS OR PROFESSIONAL
-SERVICES ARISING OUT OF OR IN ANY WAY RELATING TO THIS AGREEMENT,
-OR THE USE OF OR INABILITY TO USE THE SOFTWARE, DOCUMENTATION OR THE
-PROFESSIONAL SERVICES; OR (C) DAMAGES OR OTHER LOSSES FOR LOSS OF USE,
-LOSS OF BUSINESS, LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS
-OF DATA, COMPUTER FAILURE OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR
-LOSSES EVEN IF ADVISED OF THE POSSIBILITY THEREOF AND REGARDLESS OF
+ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES; OR
+(B) THE COST OF PROCURING SUBSTITUTE PRODUCTS OR PROFESSIONAL SERVICES
+ARISING OUT OF OR IN ANY WAY RELATING TO THIS AGREEMENT, OR THE USE
+OF OR INABILITY TO USE THE SOFTWARE, DELIVERABLES, DOCUMENTATION OR
+THE PROFESSIONAL SERVICES; OR (C) DAMAGES OR OTHER LOSSES FOR LOSS OF
+USE, LOSS OF BUSINESS, LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS,
+LOSS OF DATA, COMPUTER FAILURE OR ANY AND ALL OTHER COMMERCIAL DAMAGES
+OR LOSSES EVEN IF ADVISED OF THE POSSIBILITY THEREOF AND REGARDLESS OF
 THE LEGAL OR EQUITABLE THEORY (CONTRACT, TORT OR OTHERWISE) UPON WHICH
 THE CLAIM IS BASED. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW,
 IN NO EVENT WILL THE COUCHBASE PARTIES' AGGREGATE LIABILITY TO CUSTOMER,
@@ -514,46 +556,29 @@ five (5) calendar days of request.
 of any Order, SOW and/or this Agreement: Sections 3 (Restrictions),
 5 (Proprietary Rights), 7 (Fees), 8 (Records Retention and Audit), 9
 (Confidentiality), 10 (Disclaimer of Warranties), 11 (Indemnification),
-12 (Limitation of Liability), 13 (Term and Termination), 14 (Export
-Compliance) and 15 (General).
+12 (Limitation of Liability), 13 (Term and Termination), and 14 (General).
 
-14. Export Compliance.
-Customer shall comply with all applicable international and domestic
-export controls, including economic sanctions, laws, regulations, or
-orders that apply to Customer, the Software, the Documentation and any
-related technology or services ("Export Laws"). In furtherance of this
-obligation, Customer shall ensure that: (a) Customer does not use the
-Software, technology or services in violation of any Export Laws; and (b)
-it does not provide access to the Software, technology or services to
-(i) persons on the U.S. Department of Commerce's Denied Persons List
-or Entity List, or the U.S. Treasury Department's list of Specially
-Designated Nationals, (ii) military end-users or for military end-use,
-or (iii) parties engaged in activities directly or indirectly related
-to the proliferation of weapons of mass destruction. Any violation of
-any provision of this Section by Customer shall be deemed an incurable
-material breach of its contractual obligations, entitling Couchbase the
-right to immediately suspend performance or terminate this Agreement,
-including all Orders or SOWs hereunder, without prejudice to any other
-remedy for which it may be entitled.
 
-15. General.
-15.1 Neither party shall be liable for any delay or failure in performance
+14. General.
+14.1 Neither party shall be liable for any delay or failure in performance
 (except for any payment obligations by Customer) due to causes beyond
 its reasonable control.
 
-15.2 Customer agrees that Couchbase may include the Customer's name and
+14.2 Customer agrees that Couchbase may include the Customer's name and
 logo in client lists that Couchbase may publish for promotional purposes
 from time to time and grants Couchbase a limited license to its trademark
 solely for this purpose, provided that Couchbase complies with Customer's
 branding guidelines.
 
-15.3 Customer may not assign this Agreement, in whole or in part, by
-operation of law or otherwise, without Couchbase's prior written consent.
-Any attempt to assign this Agreement without such consent will be null
-and of no effect.  Subject to the foregoing, this Agreement will bind
-and inure to the benefit of each party's successors and permitted assigns.
+14.3 Customer may not assign or transfer its rights or obligations under
+this Agreement, an Order, or a SOW, in whole or in part, by operation of
+law or otherwise, without Couchbase's prior written consent.  Any attempt
+to assign or otherwise transfer this Agreement, an Order, or SOW without
+such consent will be null and of no effect.  Subject to the foregoing,
+this Agreement will bind and inure to the benefit of each party's
+successors and permitted assigns.
 
-15.4 If for any reason a court of competent jurisdiction finds any
+14.4 If for any reason a court of competent jurisdiction finds any
 provision of this Agreement invalid or unenforceable, that provision of
 this Agreement will be enforced to the maximum extent permissible and the
 other provisions of this Agreement will remain in full force and effect.
@@ -561,7 +586,7 @@ The failure by either party to enforce any provision of this Agreement
 will not constitute a waiver of future enforcement of that or any other
 provision.  All waivers must be in writing and signed by both parties.
 
-15.5 Any notice or communication provided by Couchbase under this
+14.5 Any notice or communication provided by Couchbase under this
 Agreement may be provided by posting a notice on the Couchbase website,
 or by mail or email to the relevant address associated with Customer's
 account, if available. Any notice or communication provided by Customer
@@ -569,7 +594,7 @@ to Couchbase under this Agreement shall be provided to Couchbase by
 certified mail, return receipt requested, to Couchbase, Inc., Attn:
 Legal Dept, 3250 Olcott Street, Santa Clara, CA 95054, United States.
 
-15.6 This Agreement shall be governed by the laws of the State of
+14.6 This Agreement shall be governed by the laws of the State of
 California, U.S.A., excluding its conflicts of law rules.  The parties
 expressly agree that the UN Convention for the International Sale of
 Goods will not apply.  Any legal action or proceeding arising under
@@ -588,40 +613,39 @@ placed under this version of the Agreement may only be modified by a
 mutually signed amendment by the parties.
 
 
-15.7 This Agreement constitutes the entire agreement and supersedes all
-prior or contemporaneous oral or written agreements regarding the subject
-matter hereof, including any agreement on confidentiality previously
-executed by the parties. Furthermore, no additional or conflicting
-terms set forth on any other document shall have any force or effect
-and are hereby rejected unless expressly agreed upon by the parties'
-duly authorized representatives in writing. Each of the parties has
-caused this Agreement to be accepted and agreed by its duly authorized
-representatives as of the Effective Date. To the extent that any terms
-and conditions set forth in an Order or SOW conflict with the terms of
-this Agreement, the applicable terms of the Order or SOW shall prevail.
+14.7 This Agreement incorporates the Privacy Notice by reference, and
+together with each Order and/or SOW constitute the entire agreement and
+understanding of the parties and supersedes all prior or contemporaneous
+oral or written agreements regarding the subject matter hereof,
+including any agreement on confidentiality previously executed by the
+parties. Furthermore, no additional or conflicting terms set forth
+on any other document shall have any force or effect and are hereby
+rejected unless expressly agreed upon by the parties' duly authorized
+representatives in writing. To the extent that any terms and conditions
+set forth in an Order or SOW conflict with the terms of this Agreement,
+the applicable terms of the Order or SOW shall prevail.
 
-15.8 Except as expressly set forth in this Agreement, the exercise by
+14.8 Except as expressly set forth in this Agreement, the exercise by
 either party of any of its remedies under this Agreement will be without
 prejudice to its other remedies under this Agreement or otherwise.
 
-15.9 The parties to this Agreement are independent contractors and
+14.9 The parties to this Agreement are independent contractors and
 this Agreement will not establish any relationship of partnership,
 joint venture, employment, franchise, or agency between the parties.
 
-15.10 Neither party will have the power to bind the other or incur
+14.10 Neither party will have the power to bind the other or incur
 obligations on the other's behalf without the other's prior written
 consent.
 
-15.11 Customer has not relied on the availability of any future version
+14.11 Customer has not relied on the availability of any future version
 of the Software or any future product in making its decision to enter
 into this Agreement.
 
-15.12 This Agreement may be executed in any number of counterparts,
+14.12 This Agreement may be executed in any number of counterparts,
 each of which shall be deemed an original, but all of which together
 shall constitute one instrument. Signatures transmitted electronically
 or by facsimile shall be deemed original signatures.
-
-15.13 This Agreement is applicable both to use of the Software without
+14.13 This Agreement is applicable both to use of the Software without
 a signed Order, but also to use of the Software pursuant to any Order
 signed by You or Customer.
 
@@ -630,13 +654,12 @@ signed by You or Customer.
 IMPORTANT CLARIFICATION: From time to time, Couchbase may release
 versions of the Software and/or certain features that are not generally
 available (the "Non-GA Offering"), including test, alpha, beta, trial,
-pre-production, preview and/or developer preview versions or features,
-at no additional charge. If Customer uses any Non-GA Offering, then the
-same terms and conditions of the "Free Licenses" under the Agreement
-above shall apply, subject to the modifications below.
+pre-production, preview and/or developer preview versions or features. If
+Customer uses any Non-GA Offering,  then the same terms and conditions
+of the "Free Licenses" under the Agreement above shall apply, subject
+to the modifications below.
 
 Non-GA Offering Supplemental Terms
-
 For any Non-GA Offering, the definition of Software in Section 1 of
 the Agreement shall be replaced by the following and all references to
 "Software" in the applicable provisions shall refer to the below instead:
@@ -656,32 +679,28 @@ own internal non-production use for the purpose of evaluation and/or
 development, if applicable (the "Non-GA Offering License"). By accepting
 an invitation to install or use, or by installing or using the Non-GA
 Offering, Customer acknowledges and agrees that (i) it has relied upon
-its own skill and judgment in electing to use such Non-GA Offering in
-its sole discretion, (ii) the Non-GA Offering may not work correctly or
-in the same way the final version may work and is offered exclusive of
-any warranty (as described in Section 10 of the Agreement) or service
-level agreement, (iii) the license granted to Customer with respect
-to the Non-GA Offering is revocable and terminable at any time in
-Couchbase's sole and absolute discretion, (iv) Couchbase may change,
-withdraw or discontinue the Non-GA Offering at any time without
-notice and is under no obligation to make such generally available,
-and (v) Couchbase is not obligated to provide any services or support,
-including Support, Professional Services, updates, patches, enhancements,
-or fixes (either in the form of descriptions in the Documentation or
-on the Couchbase website or otherwise). Couchbase may use any data,
-feedback or information that Customer makes available to Couchbase
-or that Couchbase derives or generates from Customer's use of the
-Non-GA Offering ("Feedback"), and Customer hereby grants Couchbase a
-royalty-free, fully paid-up, non-exclusive, transferable, sublicensable,
-perpetual, irrevocable license to use, copy, modify, make derivative
-works of, distribute, perform and display such Feedback for any purpose,
-including to improve and develop the Non-GA Offering. Customer agrees to
-the restrictions generally applicable to the Free Licenses and Software,
-as applicable, under this Agreement and any additional requirements set
-forth by Couchbase in writing (whether in the Documentation or otherwise)
-regarding any particular Non-GA Offering. For the avoidance of doubt,
-Customer shall not make any Productive Use of any Non-GA Offering under
-any circumstance.
+its own skill and judgment in electing to use such Non-GA Offering in its
+sole discretion, (ii) the Non-GA Offering may not work correctly or in
+the same way the final version may work and is offered exclusive of any
+warranty (as described in Section 10 of the Agreement) or service level
+agreement, (iii) the license granted to Customer with respect to the
+Non-GA Offering is revocable and terminable at any time in Couchbase's
+sole and absolute discretion, (iv) Couchbase may change, withdraw or
+discontinue the Non-GA Offering at any time without notice and is under
+no obligation to make such generally available, and (v) Couchbase is
+not obligated to provide any services or support, including Support,
+Professional Services, updates, patches, enhancements, or fixes (either
+in the form of descriptions in the Documentation or on the Couchbase
+website or otherwise). Couchbase may use any data, feedback or information
+that Customer makes available to Couchbase or that Couchbase derives or
+generates from Customer's use of the Non-GA Offering ("Feedback"), and
+Customer hereby irrevocably assigns to Couchbase all right, title, and
+interest in such Feedback. Customer agrees to the restrictions generally
+applicable to the Free Licenses and Software, as applicable, under
+this Agreement and any additional requirements set forth by Couchbase
+in writing (whether in the Documentation or otherwise) regarding any
+particular Non-GA Offering. For the avoidance of doubt, Customer shall
+not make any Productive Use of any Non-GA Offering under any circumstance.
 
 Section 12 of the Agreement shall be replaced by the following:
 12. Limitation of Liability. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE
@@ -716,8 +735,7 @@ Non-GA Offering Licenses, in its sole discretion, or (iv) either party
 terminates this Agreement as set forth in this Section, provided that
 the parties' rights and obligations of the provisions listed in Section
 13.4 shall survive any termination.
-
 If you have any questions regarding this Agreement, please contact us
 at legal@couchbase.com.
 
-Product License: 20200824
+Product License V9: 20210301
