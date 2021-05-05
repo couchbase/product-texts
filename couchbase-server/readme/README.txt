@@ -57,17 +57,9 @@ Couchbase Server also includes OpenJDK which is made available under the GNU
 General Public License, version 2, with the Classpath Exception. The source
 code for OpenJDK is available here: https://github.com/openjdk/
 
-Couchbase Server also includes chardet which is made available under the GNU
-Lesser General Public License v2.1. The source code for chardet is available
-here: https://github.com/chardet/chardet
 
-Couchbase Server also includes readline which is made available under the GNU
-General Public License, version 3. The source code for readline is available
-here: https://ftp.gnu.org/gnu/readline/
-
-
-1. License Notice for libgcc, libstdc++, and readline libraries
----------------------------------------------------------------
+1. License Notice for libgcc and libstdc++ libraries
+----------------------------------------------------
 
 GNU GENERAL PUBLIC LICENSE
 ==========================
@@ -736,8 +728,8 @@ programs to use, in this way, the header files and runtime libraries covered
 by this Exception.
 
 
-2. License notice for libnuma1 library and chardet
---------------------------------------------------
+2. License notice for libnuma1 library
+--------------------------------------
 
 GNU Lesser General Public License
 =================================
