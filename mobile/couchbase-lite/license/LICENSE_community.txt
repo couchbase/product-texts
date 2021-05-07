@@ -1,12 +1,10 @@
-Last updated February 28, 2020. Replaces all prior versions.
-
-Couchbase, Inc.
 Community Edition License Agreement
-
-This Couchbase Community Edition License Agreement between you and
-Couchbase, Inc., governs your use of the community edition of Couchbase's
-software accompanying this agreement, including but not limited to
-Couchbase Server Community, Couchbase Synch Gateway Community and
+This Couchbase Community Edition License Agreement between you
+and Couchbase, Inc., governs your use of the community edition of
+Couchbase's software accompanying this agreement, including but not
+limited to Couchbase Server Community (but excluding the cross datacenter
+replication ("XDCR") feature and any other excluded features as described
+in Couchbase's documentation), Couchbase Sync Gateway Community and
 Couchbase Lite Community, and any Couchbase services or updates for that
 software, in addition to all versions of Couchbase's community software
 described in section 1 below (together, the "Community Software").
@@ -33,11 +31,15 @@ all prior versions of Couchbase's community edition software.
 2. Term and Termination.  This agreement will continue to apply until (a)
 you terminate this agreement at any time by uninstalling and deleting
 all copies of the Community Software in your possession or control; or
-(b) we terminate this agreement. We may terminate this agreement at
-any time for any reason (including but not limited to your breach of
-this agreement) by providing you with notice. If we notify you of our
-termination, you must uninstall and delete all copies of the Community
-Software in your possession or control.
+(b) we terminate this agreement. We may terminate this agreement at any
+time for any reason (including but not limited to your breach of this
+agreement) in our sole discretion by providing you with notice. If we
+notify you of our termination, you must uninstall and delete all copies
+of the Community Software in your possession or control. Upon request,
+you (and if you are an entity then such certification shall be signed
+by an authorized representative of your company) shall provide written
+certification that you have uninstalled, deleted and ceased all usage
+of the Community Software within five (5) business days of our request.
 
 3. Modification of agreement. We may modify this agreement or replace
 this agreement with new terms from time to time with any update or new
@@ -53,41 +55,47 @@ Software, subject to the restrictions in Section 5 and provided that
 you ensure that users of your products also comply with the applicable
 restrictions in Section 5.
 
-5. License Restrictions. In addition to the other restrictions and
-limitations in this agreement, you must not, and you must not assist or
-authorize others to: (a) work around or bypass any technical limitations
-in the Community Software that only allow you to use the Community
-Software in certain ways or any security device or protection used
-for or contained in the Community Software; (b) decompile, reverse
-engineer, disassemble, attempt to derive the source code of, modify,
-or create derivative works of the Community Software (except the extent
-prohibited by applicable law or to the extent permitted by the licensing
-terms governing use of any open source components included with the
-Community Software); (c) use the Community Software that is against the
-law, including but not limited to transferring the Community Software
-to any country in violation of any export or re-export regulations
-or laws, or that infringes, misappropriates or otherwise violates any
-right of any third party; (d) sell, license, sublicense, distribute,
-offer or provide the Community Software on a standalone basis; (e)
-directly share, commercialize, sell, transfer, license or sublicense
-the Community Software; or (f) make any representations or warranties
-regarding the Community Software. This agreement does not grant any rights
-to any commercial/enterprise (non-community) edition of our software or
-services, which are subject to separate terms.
+5. License Restrictions. This agreement does not grant any rights to our
+source code or any commercial/enterprise (non-community) edition of our
+software or services, which are subject to separate terms. In addition
+to the other restrictions and limitations in this agreement, you must
+not, and you must not assist or authorize others to: (a) work around
+or bypass any technical limitations in the Community Software that only
+allow you to use the Community Software in certain ways or any security
+device or protection used for or contained in the Community Software;
+(b) decompile, reverse engineer, disassemble, attempt to derive the
+source code of, modify, or create derivative works of the Community
+Software (except the extent prohibited by applicable law or to the
+extent permitted by the licensing terms governing use of any open
+source components included with the Community Software); (c) use the
+Community Software that is against the law, including but not limited
+to transferring the Community Software to any country in violation
+of any export or re-export regulations or laws, or that infringes,
+misappropriates or otherwise violates any right of any third party; (d)
+sell, license, sublicense, distribute, offer or provide the Community
+Software on a standalone basis; (e) directly share, commercialize, sell,
+transfer, license or sublicense the Community Software; (f) make any
+representations or warranties regarding the Community Software; or (g)
+use or deploy Couchbase Server Community in clusters comprised of more
+than five (5) node instances of Couchbase Server Community running on
+a server, including a physical server, server blade, virtual machine,
+software container, or cloud server. Furthermore, this agreement does
+not grant you any rights to the XDCR functionality provided by Couchbase.
 
 6. Verification of Use. We may verify that you are using the Community
 Software in compliance with this agreement, including without limitation
 through technological features in the Community Software that may
 transmit to us data relating to your use of the Community Software. Upon
-our request, you will provide us with a system-generated information
-verifying that your use of the Community Software complies with this
-agreement. If you are found to be using the Community Software in breach
-of this agreement, then without limiting any other rights or remedies
-we may have, you must immediately pay us a license fee for such usage of
-the Community Software that is equal to the amount you would have paid if
-you had licensed the commercial/enterprise version Couchbase's software.
-If you do not comply with this agreement and we do not take immediate
-action, we may still take action in the future.
+our request, you will provide us promptly and in any event within five
+(5) business days with system-generated information verifying that your
+use of the Community Software complies with this agreement. If you are
+found to be using the Community Software in breach of this agreement,
+then without limiting any other rights or remedies we may have, you
+must immediately pay us a license fee for such usage of the Community
+Software that is equal to the amount you would have paid if you had
+licensed the commercial/enterprise version Couchbase's software.  If you
+do not comply with this agreement and we do not take immediate action,
+we may still take action in the future.
 
 7. Privacy and Data Security.  Our use of any personal data collected
 by us under this agreement is governed by our privacy policy, currently
@@ -115,18 +123,18 @@ REQUIREMENTS, THAT ITS OPERATION WILL BE UNINTERRUPTED OR ERROR-FREE,
 OR THAT DEFECTS WILL BE CORRECTED. NO INFORMATION OR ADVICE GIVEN BY US
 WILL CREATE ANY WARRANTY.
 
-10. Limitation of Liability. To the maximum extent permitted by
-applicable law: (a) in no event will we be liable for any incidental,
-special, indirect or consequential damages whatsoever, or damages for
-loss of profits, loss of data, loss of goodwill, business interruption
-or any other damages or losses, arising out of or related to your use
-or inability to use the Community Software,; and (b) in no event will
-our total liability to you for all loss, claims and damages exceed the
-amount of fifty dollars (USD50.00).  All limitations and exclusions of
-liability in this agreement will apply even if the above stated remedies
-fail of their essential purpose and regardless of the form or source of
-claim or loss, whether the claim or loss was foreseeable, and whether
-we have been advised of the possibility of the claim or loss.
+10. LIMITATION OF LIABILITY. TO THE MAXIMUM EXTENT PERMITTED BY
+APPLICABLE LAW: (A) IN NO EVENT WILL WE BE LIABLE FOR ANY INCIDENTAL,
+SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES WHATSOEVER, OR DAMAGES FOR
+LOSS OF PROFITS, LOSS OR CORRUPTION OF DATA, LOSS OF GOODWILL, BUSINESS
+INTERRUPTION OR ANY OTHER DAMAGES OR LOSSES, ARISING OUT OF OR RELATED
+TO YOUR USE OR INABILITY TO USE THE COMMUNITY SOFTWARE,; AND (B) IN NO
+EVENT WILL OUR TOTAL LIABILITY TO YOU FOR ALL LOSS, CLAIMS AND DAMAGES
+EXCEED THE AMOUNT OF FIFTY DOLLARS (USD50.00).  ALL LIMITATIONS AND
+EXCLUSIONS OF LIABILITY IN THIS AGREEMENT WILL APPLY EVEN IF THE ABOVE
+STATED REMEDIES FAIL OF THEIR ESSENTIAL PURPOSE AND REGARDLESS OF THE FORM
+OR SOURCE OF CLAIM OR LOSS, WHETHER THE CLAIM OR LOSS WAS FORESEEABLE,
+AND WHETHER WE HAVE BEEN ADVISED OF THE POSSIBILITY OF THE CLAIM OR LOSS.
 
 11. Non-Assignment. You may not assign or otherwise transfer your rights
 and obligations under this agreement, in whole or in part, without our
@@ -171,4 +179,5 @@ consumer rights, under the laws of your state or country, this agreement
 does not change those other rights if the laws of your state or country
 do not permit it to do so.
 
-CCELA/Feb2020/v2
+CCELA/Apr2021/v3
+
