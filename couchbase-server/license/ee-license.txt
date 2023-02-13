@@ -92,7 +92,7 @@ The term "including" means including but not limited to.
   Software. Prior to using the Software for any other use (including
   for testing, quality assurance, or in production), Customer agrees to
   enter into an Order with Couchbase and pay the applicable Fees. If,
-  at any time, Customer uses the Software for other any use (including
+  at any time, Customer uses the Software for any other use (including
   for testing, quality assurance, or in production) without an active
   Order, then (i) Customer acknowledges and agrees that its Free License
   is automatically converted to an Enterprise License, (ii) Couchbase
@@ -315,7 +315,7 @@ The term "including" means including but not limited to.
   by Customer and not to Free Licenses.
 
   7.2 Customer will pay Couchbase the Fees in advance, within thirty (30)
-  days of the date of the invoice, unless explicitly otherwise indicated
+  days of the date of the invoice, unless otherwise explicitly indicated
   in the applicable Order.  If Customer purchases licenses or services
   related to the Software through an approved third-party partner,
   then the applicable agreement with that third-party will govern with
