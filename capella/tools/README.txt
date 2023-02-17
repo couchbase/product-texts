@@ -1,7 +1,8 @@
 IMPORTANT:
 ==========
-These tools are only supported for use with Couchbase Capella clusters.
-Users needing support should create a Support ticket in the Couchbase Capella UI.
+Couchbase Capella users needing support should create a Support ticket in Capella.
+Self-managed EE Couchbase Server users needing support should follow the support
+for their EE Couchbase Server cluster.
 
 Tools for Couchbase Capella
 ===========================
