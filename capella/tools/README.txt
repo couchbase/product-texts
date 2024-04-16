@@ -9,6 +9,7 @@ Tools for Couchbase Capella
 cbbackupmgr -- utility for backup and restore
 cbexport -- utility for exporting data
 cbimport -- utility for importing data
+cbq – utility to interact with Couchbase using SQL++
 
 Platform Note
 =============
